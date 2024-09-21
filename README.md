@@ -1,4 +1,4 @@
-#DSA Intermediate Topics
+## DSA Intermediate Topics
 
 This Repo contains DSA intermediate topics programs :
 1) BinarySearch
